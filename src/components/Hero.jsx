@@ -46,7 +46,7 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-               A full-stack web developer with experience in JavaScript, Node.js, React, and MongoDB, as well as IoT development using NodeMCU (ESP8266) and MQTT.
+               A full-stack web developer with experience in JavaScript, Node.js, React, and MongoDB, as well as IoT enthusiast.
               
             </p>
           </div>
